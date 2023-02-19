@@ -1,0 +1,14 @@
+node is a javascript runtime, Platform where we can run javascript code.
+
+We can run javascript on browser and node
+Javascript has window object (with functions lik alert etc)
+node hase global object (with functions like process, console etc)
+
+Node JS dodumentation: https://nodejs.org/docs/latest-v14.x/api/globals.html
+
+event loop is responsible to run asyncronous code in node js
+
+Modules used to standardise code.
+Common JS modules: extenstion '.js', to import const var = require('./modulePath')
+ECMAScripts(ECMA6) Modules: extension '.mjs' to import import {var} from './modulePath'
+
